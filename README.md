@@ -1,6 +1,3 @@
-
-<h6 align="justify">And this specific repository is about the SOLIDWORKS software.</h6>
-
 [![MasterHead](http://dicer0.com/wp-content/uploads/2023/09/SOLIDWORKS-di_cer0-Banner.png)](https://dicer0.com/#skills)
 # m_SOLIDWORKS_ESP
 <h6 align="justify">
