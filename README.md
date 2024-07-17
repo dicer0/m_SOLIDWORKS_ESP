@@ -11,4 +11,4 @@ And this specific repository contains documentation about the SOLIDWORKS softwar
 <br/>
 &nbsp;
 
-[![SolidWorks](http://dicer0.com/wp-content/uploads/2023/09/m_SOLIDWORS-Thesis_Wars_Explosion.gif)](https://dicer0.com/#skills)
+[![SolidWorks](http://dicer0.com/wp-content/uploads/2024/07/m_SOLIDWORS_MkII.gif)](https://dicer0.com/#skills)
